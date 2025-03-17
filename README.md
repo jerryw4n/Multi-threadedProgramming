@@ -1,7 +1,7 @@
-# Multi-threaded Programming in Java Overview
+# Multi-threaded Programming in Java Project Overview
 Developed a multi-threaded Java application that synchronizes access to shared objects based on a simulation of a rain switch yard under Precision Scheduled Railroading (PSR). PSR focuses on moving train cars rather than entire trains, improving network fluidity and resource use. The simulation models train movements through a switch yard with controlled track and switch alignments.
 
-## Enterprise Computing Project 2 Objectives
+## Objectives
 - Practice multi-threaded programming and synchronization in Java.
 - Control train movements using Java's `ReentrantLock` and `ExecutorService`.
 
